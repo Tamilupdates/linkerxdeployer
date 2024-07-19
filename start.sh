@@ -1,5 +1,5 @@
 #!/bin/bash
 git --version 
-git clone https://github.com/Tamilupdates/HHStreamENVBot.git tgfs
+git clone http://github.com/Tamilupdates/HHStreamENVBot tgfs
 cd tgfs
 python -m WebStreamer
